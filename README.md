@@ -22,3 +22,7 @@ No prompt de comando no Windows (cmd), digite os seguintes comandos:
 ### 3. `jupyter notebook`
 
 Feita a instalação, digite no promt de comando  `jupyter notebook`. Em seguida, siga as instruções do comando, abrindo o arquivo que ele orienta ou copiando e colando no navegador o link indicado.
+
+![jupyter_notebook](./files/jupyter_notebook.png)
+
+Não feche o CMD ou interrompa a execução desse comando, pois isso significa fechar o Jupyter. Faça isso quando quiser sair e fechar o programa.
